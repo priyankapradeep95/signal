@@ -1,6 +1,6 @@
-facebook friend req system
+facebook friend request system , profile , friend and suggested list
 
-#  Deploymnet without Docker 
+#  Run
 1. create database in mysql and add to .env 
 2. php artisan serve
 
